@@ -1,0 +1,20 @@
+.btn-time-slot {
+    width: 200px;
+    height: 50px;
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.2rem;
+    border-radius: 0.25rem;
+    color: #fff;
+}
+
+
+.btn-time-slot:hover {
+    background-color: #073d77;
+    border-color: #053161;
+    color: #e84a4a;
+}
+body {
+    background: linear-gradient(to bottom, #3d6fbc, #b6fbff);
+  }
