@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AliNK9233/soprtsbooking/static/css/main.69ba6d0c.css",
+    "main.js": "/AliNK9233/soprtsbooking/static/js/main.62d7e1d7.js",
+    "index.html": "/AliNK9233/soprtsbooking/index.html",
+    "main.69ba6d0c.css.map": "/AliNK9233/soprtsbooking/static/css/main.69ba6d0c.css.map",
+    "main.62d7e1d7.js.map": "/AliNK9233/soprtsbooking/static/js/main.62d7e1d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ba6d0c.css",
+    "static/js/main.62d7e1d7.js"
+  ]
+}
